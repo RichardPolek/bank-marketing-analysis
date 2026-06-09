@@ -17,7 +17,8 @@ Cieľom bolo identifikovať, ktoré segmenty klientov majú najvyšší záujem 
 - `bank_data_analysis.xlsx` — Excel súbor s dashboardom, pivot tabuľkami a Data Quality Reportom
 
 ## Dátové zdroje
-- [Bank Marketing Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+- Dataset pochádza z UCI Machine Learning Repository (Moro et al., 2014) a je voľne dostupný na akademické účely.
+- [Originálny zdroj — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 ## Dashboard
 
 ![Dashboard](Dashboard.png)
