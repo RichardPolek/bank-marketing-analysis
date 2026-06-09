@@ -18,3 +18,6 @@ Cieľom bolo identifikovať, ktoré segmenty klientov majú najvyšší záujem 
 
 ## Dátové zdroje
 - [Bank Marketing Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+## Dashboard
+
+![Dashboard](Dashboard.png)
