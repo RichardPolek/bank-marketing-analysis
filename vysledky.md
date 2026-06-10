@@ -32,7 +32,7 @@ ORDER BY percento_ano DESC;
 | entrepreneur | 328 | 123 | 37.5 |
 | blue-collar | 1944 | 708 | 36.4 |
 
-**Záver:** Najvyššiu úspešnosť majú študenti (74,7 %) a dôchodcovia (66,3 %) — skupiny mimo aktívneho pracovného pomeru. Najnižšiu blue-collar (36,4 %), ktorá je zároveň druhá najpočetnejšia.
+**Záver:** Najvyššiu úspešnosť majú študenti (74,7 %) a dôchodcovia (66,3 %), teda skupiny mimo aktívneho pracovného pomeru. Najnižšiu blue-collar (36,4 %), ktorá je zároveň druhá najpočetnejšia.
 
 ---
 
@@ -76,7 +76,7 @@ LIMIT 15;
 | management | 40-49 | 596 | 47.8 |
 | services | do 30 | 151 | 47.7 |
 
-**Záver:** Vek je silnejší signál než povolanie. Najochotnejšie sú krajné vekové kategórie — mladí do 30 a ľudia 60+ (manažéri 60+ až 85,3 %). Stredný produktívny vek (30–49) má pri zamestnaných profesiách úspešnosť pod 50 %.
+**Záver:** Vek je silnejší signál než povolanie. Najochotnejšie sú krajné vekové kategórie: mladí do 30 a ľudia 60+ (manažéri 60+ až 85,3 %). Stredný produktívny vek (30–49) má pri zamestnaných profesiách úspešnosť pod 50 %.
 
 ---
 
@@ -107,4 +107,4 @@ ORDER BY priemerny_zostatok DESC;
 | admin. | 1196 | 47.3 | 11 |
 | services | 1081 | 40.0 | 12 |
 
-**Záver:** Vyšší zostatok automaticky neznamená vyššiu ochotu. Študenti sú až 7. podľa zostatku, ale majú najvyššiu úspešnosť (74,7 %); podnikatelia sú 5. najbohatší, ale druhí najmenej ochotní (37,5 %). Dôchodcovia vedú v oboch ukazovateľoch — z marketingového pohľadu ideálny segment.
+**Záver:** Vyšší zostatok automaticky neznamená vyššiu ochotu. Študenti sú až 7. podľa zostatku, ale majú najvyššiu úspešnosť (74,7 %); podnikatelia sú 5. najbohatší, ale druhí najmenej ochotní (37,5 %). Dôchodcovia vedú v oboch ukazovateľoch, z marketingového pohľadu je to ideálny segment.
