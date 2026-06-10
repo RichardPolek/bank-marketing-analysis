@@ -6,7 +6,8 @@ Analýza reálneho datasetu Bank Marketing (UCI Machine Learning Repository, 11 
 ## Nástroje
 - Microsoft Excel (kontingenčné tabuľky, grafy, dashboard)
 - SQL (SQLite): analytické dotazy, krížové analýzy, window funkcie
-
+- Power BI (interaktívny dashboard, DAX miery)
+  
 ## Kľúčové zistenia
 - Najvyšší záujem o vklad majú študenti (74,7 %) a dôchodcovia (66,3 %)
 - Z pohľadu veku sú najlepší segment seniori 60+ (76,9 %)
@@ -29,3 +30,12 @@ Ten istý dataset som analyzoval aj v SQL (SQLite). Niektoré dotazy idú za rá
 - `analyza.sql`: komentované SQL dotazy
 - `vysledky.md`: výsledky s tabuľkami a interpretáciou
 - `load_data.py`: načítanie dát do SQLite databázy
+  
+## Power BI
+
+Ten istý dataset spracovaný aj v Power BI ako interaktívny dashboard. Použil som DAX mieru na výpočet percenta záujmu, vekové intervaly a kategorické zoradenie osí. Výsledky potvrdzujú rovnaký trend ako Excel aj SQL: najvyšší záujem majú študenti, dôchodcovia a krajné vekové skupiny.
+
+- `bank_powerbi.pbix`: zdrojový Power BI súbor
+- `powerbi_dashboard.png`: náhľad dashboardu
+
+- ![Power BI dashboard](powerbi_dashboard.png)
